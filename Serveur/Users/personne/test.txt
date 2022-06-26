@@ -1,0 +1,3 @@
+user personne
+pass abcd
+stor C:\Users\wwwth\Documents\Papier\inscription\demande.txt wow.txt
